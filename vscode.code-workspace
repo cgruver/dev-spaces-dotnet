@@ -26,6 +26,7 @@
             "extensionId": "muhammad-sammy.csharp",
             "path": "/usr/bin/dotnet"
         }
-    ]
+	],
+	"dotnet.server.useOmnisharp": false
 	}
 }
